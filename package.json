@@ -1,0 +1,17 @@
+{
+  "name": "electronfileupload",
+  "version": "1.0.0",
+  "description": "Electron File Upload",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^28.1.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
